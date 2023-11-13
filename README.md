@@ -44,12 +44,12 @@ Yo!👋 (´ω ｀).
 <h2 align="center">Stats</h2>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=omineko&locale=en&mode=daily&theme=chartreuse-dark&hide_border=true&border_radius=5&date_format=j M[ Y]&order=3" height="150" alt="streak graph" />
-  <img src="https://readmestats.999857.xyz/api?username=omineko&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=chartreuse-dark&locale=en&hide_border=true&order=1&custom_title=omineko%27s+chilling" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=elleromero&locale=en&mode=daily&theme=chartreuse-dark&hide_border=true&border_radius=5&date_format=j M[ Y]&order=3" height="150" alt="streak graph" />
+  <img src="https://readmestats.999857.xyz/api?username=elleromero&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=chartreuse-dark&locale=en&hide_border=true&order=1&custom_title=elleromero%27s+chilling" height="150" alt="stats graph"  />
 </div>
 
 <div align="center">
-  <img src="https://readmestats.999857.xyz/api/top-langs?username=omineko&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=chartreuse-dark&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://readmestats.999857.xyz/api/top-langs?username=elleromero&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=chartreuse-dark&hide_border=true&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
@@ -57,11 +57,11 @@ Yo!👋 (´ω ｀).
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=omineko&column=5&margin-w=15&margin-h=15&no-frame=true&theme=matrix" alt="trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=elleromero&column=5&margin-w=15&margin-h=15&no-frame=true&theme=matrix" alt="trophies" />
 </div>
 
 <div align="center">
-  <img src="https://github.com/omineko/omineko/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://github.com/elleromero/elleromero/blob/output/github-contribution-grid-snake.svg" />
 </div>
 
 ###
@@ -71,7 +71,7 @@ Yo!👋 (´ω ｀).
 <div align="center">
   <img align="center" src="./images/gura-gawr-gura.gif" style="height: 150px;"  />
   <br clear="center">
-  <img align="center" src="https://profile-counter.glitch.me/omineko/count.svg?"  />
+  <img align="center" src="https://profile-counter.glitch.me/elleromero/count.svg?"  />
 </div>
 
 ###

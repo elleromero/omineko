@@ -2,10 +2,11 @@
   <img align="center" src="./images/sakura.gif" alt="header image">
 </div>
 
-<div style="display: block; width: 100%;">
+<!-- <div style="display: block; width: 100%;">
   <img align="left" height="120" src="./images/tohru.gif"  />
+</div> -->
+
   <h1>  Yo!👋 (´ω ｀). </h1>
-</div>
 
 ###
 

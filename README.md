@@ -3,8 +3,8 @@
 </div>
 
 <div style="display: block; width: 100%;">
-  <img align="right" height="120" src="./images/tohru.gif"  />
-  <h1> Yo!👋 (´ω ｀). </h1>
+  <img align="left" height="120" src="./images/tohru.gif"  />
+  <h1>  Yo!👋 (´ω ｀). </h1>
 </div>
 
 ###
